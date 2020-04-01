@@ -1,5 +1,5 @@
 # BlendedMVS_scenes
-Quick lookup for BlendedMVS scenes
+Quick lookup for [BlendedMVS](https://arxiv.org/pdf/1911.10127.pdf) scenes.
 
 ## Large
 
