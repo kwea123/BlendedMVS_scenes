@@ -49,5 +49,6 @@ Quick lookup for [BlendedMVS](https://arxiv.org/pdf/1911.10127.pdf) scenes.
 ```
 
 ## Related repos
-[MVSNet](https://github.com/YoYo000/MVSNet)
-[My CasMVS](https://github.com/kwea123/CasMVSNet_pl)
+
+*  [MVSNet](https://github.com/YoYo000/MVSNet)
+*  [My CasMVS](https://github.com/kwea123/CasMVSNet_pl)
