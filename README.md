@@ -36,3 +36,18 @@ Quick lookup for [BlendedMVS](https://arxiv.org/pdf/1911.10127.pdf) scenes.
 |599aa591d5b41f366fed0d58![](sculpture/599aa591d5b41f366fed0d58.jpg)|59e75a2ca9e91f2c5526005d![](sculpture/59e75a2ca9e91f2c5526005d.jpg)|59ecfd02e225f6492d20fcc9![](sculpture/59ecfd02e225f6492d20fcc9.jpg)|59f363a8b45be22330016cad![](sculpture/59f363a8b45be22330016cad.jpg)|59f70ab1e5c5d366af29bf3e![](sculpture/59f70ab1e5c5d366af29bf3e.jpg)|59f87d0bfa6280566fb38c9a![](sculpture/59f87d0bfa6280566fb38c9a.jpg)|5a48c4e9c7dab83a7d7b5cc7![](sculpture/5a48c4e9c7dab83a7d7b5cc7.jpg)|5a588a8193ac3d233f77fbca![](sculpture/5a588a8193ac3d233f77fbca.jpg)|
 |5a8315f624b8e938486e0bd8![](sculpture/5a8315f624b8e938486e0bd8.jpg)|5aa0f9d7a9efce63548c69a1![](sculpture/5aa0f9d7a9efce63548c69a1.jpg)|5aa235f64a17b335eeaf9609![](sculpture/5aa235f64a17b335eeaf9609.jpg)|5ab8713ba3799a1d138bd69a![](sculpture/5ab8713ba3799a1d138bd69a.jpg)|5acf8ca0f3d8a750097e4b15![](sculpture/5acf8ca0f3d8a750097e4b15.jpg)|5adc6bd52430a05ecb2ffb85![](sculpture/5adc6bd52430a05ecb2ffb85.jpg)|5b2c67b5e0878c381608b8d8![](sculpture/5b2c67b5e0878c381608b8d8.jpg)|5b3b353d8d46a939f93524b9![](sculpture/5b3b353d8d46a939f93524b9.jpg)|
 |5b4933abf2b5f44e95de482a![](sculpture/5b4933abf2b5f44e95de482a.jpg)|5b908d3dc6ab78485f3d24a9![](sculpture/5b908d3dc6ab78485f3d24a9.jpg)|5ba19a8a360c7c30c1c169df![](sculpture/5ba19a8a360c7c30c1c169df.jpg)|5bc5f0e896b66a2cd8f9bd36![](sculpture/5bc5f0e896b66a2cd8f9bd36.jpg)|5bccd6beca24970bce448134![](sculpture/5bccd6beca24970bce448134.jpg)|5bd43b4ba6b28b1ee86b92dd![](sculpture/5bd43b4ba6b28b1ee86b92dd.jpg)|5be4ab93870d330ff2dce134![](sculpture/5be4ab93870d330ff2dce134.jpg)|5bf7d63575c26f32dbf7413b![](sculpture/5bf7d63575c26f32dbf7413b.jpg)|
+
+
+## Citation
+```
+@article{yao2020blendedmvs,
+  title={BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks},
+  author={Yao, Yao and Luo, Zixin and Li, Shiwei and Zhang, Jingyang and Ren, Yufan and Zhou, Lei and Fang, Tian and Quan, Long},
+  journal={Computer Vision and Pattern Recognition (CVPR)},
+  year={2020}
+}
+```
+
+## Related repos
+[MVSNet](https://github.com/YoYo000/MVSNet)
+[My CasMVS](https://github.com/kwea123/CasMVSNet_pl)
